@@ -69,7 +69,7 @@
         },
         {
             "id": 6,
-            "name": "'Web Development'",
+            "name": "Web Development",
             "title": "Vallies Real Estate",
             "image": "RealEstate" ,
             "description": "This is a real estate website "
@@ -77,7 +77,7 @@
         },
         {
             "id": 7,
-            "name": "'Web Development'",
+            "name": "Web Development",
             "title": "Agricultural Site",
             "image":"/images/projectInfo/agri.jpeg" ,
             "description": "This is a real estate website"
