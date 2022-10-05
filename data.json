@@ -38,8 +38,8 @@
         {
             "id": 2,
             "name": "Web Development",
-            "title": "Real Estate",
-            "image": "RealEstate" ,
+            "title": "Job Listings",
+            "image": "/images/projectInfo/jobs.jpeg" ,
             "description": "This is a real estate website"
             
         },
