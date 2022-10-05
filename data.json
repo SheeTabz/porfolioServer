@@ -1,0 +1,29 @@
+{
+    "skills":[
+        {
+            "name": "Css",
+            "image" : "/images/skills/css.png"
+
+        },
+        {
+            "name": "HTML",
+            "image" : "/images/skills/html.png"
+        },
+        {
+            "name": "JavaScript",
+            "image" : "/images/skills/js.png"
+        },
+        {
+            "name": "React",
+            "image" : "/images/skills/react.png"
+        },
+        {
+            "name": "Tailwind",
+            "image" : "/images/skills/tailwind.png"
+        },
+        {
+            "name": "Figma",
+            "image" : "/images/skills/figama.png"
+        }
+    ]
+}
