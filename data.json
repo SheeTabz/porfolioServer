@@ -25,5 +25,64 @@
             "name": "Figma",
             "image" : "/images/skills/figama.png"
         }
+    ],
+    "projectInfo":[
+        {
+            "id": 1,
+            "name": "Web Development",
+            "title": "Real Estate",
+            "image": "RealEstate ",
+            "description": "This is a real estate website "
+            
+        },
+        {
+            "id": 2,
+            "name": "Web Development",
+            "title": "Real Estate",
+            "image": "RealEstate" ,
+            "description": "This is a real estate website"
+            
+        },
+        {
+            "id": 3,
+            "name": "Web Developmen",
+            "title": "Real Estate",
+            "image": "RealEstate ",
+            "description": "This is a real estate website "
+            
+        },
+        {
+            "id": 4,
+            "name": "UI/UX Design",
+            "title": "Real Estate",
+            "image": "RealEstate" ,
+            "description": "This is a real estate website"
+            
+        },
+        {
+            "id": 5,
+            "name": "UI/UX Design",
+            "title": "Real Estate",
+            "image": "RealEstate" ,
+            "description": "This is a real estate website "
+            
+        },
+        {
+            "id": 6,
+            "name": "'Web Development'",
+            "title": "Real Estate",
+            "image": "RealEstate" ,
+            "description": "This is a real estate website "
+            
+        },
+        {
+            "id": 7,
+            "name": "'Web Development'",
+            "title": "Real Estate",
+            "image":"RealEstate" ,
+            "description": "This is a real estate website"
+            
+        }
+    
     ]
 }
