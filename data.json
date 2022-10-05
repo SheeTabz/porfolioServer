@@ -30,8 +30,8 @@
         {
             "id": 1,
             "name": "Web Development",
-            "title": "Real Estate",
-            "image": "RealEstate ",
+            "title": "Titan Real Estate",
+            "image": "/images/projectInfo/estate.jpeg",
             "description": "This is a real estate website "
             
         },
@@ -45,32 +45,32 @@
         },
         {
             "id": 3,
-            "name": "Web Developmen",
-            "title": "Real Estate",
-            "image": "RealEstate ",
+            "name": "Web Development",
+            "title": "URL Shortener",
+            "image": "/images/projectInfo/urlShortener.png",
             "description": "This is a real estate website "
             
         },
         {
             "id": 4,
-            "name": "UI/UX Design",
-            "title": "Real Estate",
-            "image": "RealEstate" ,
+            "name": "Web Development",
+            "title": "DigiHotel",
+            "image": "/images/projectInfo/hotel.jpeg" ,
             "description": "This is a real estate website"
             
         },
         {
             "id": 5,
-            "name": "UI/UX Design",
-            "title": "Real Estate",
-            "image": "RealEstate" ,
+            "name": "Web Development",
+            "title": "Farm Management App",
+            "image": "/images/projectInfo/farm.jpeg" ,
             "description": "This is a real estate website "
             
         },
         {
             "id": 6,
             "name": "'Web Development'",
-            "title": "Real Estate",
+            "title": "Vallies Real Estate",
             "image": "RealEstate" ,
             "description": "This is a real estate website "
             
@@ -78,8 +78,8 @@
         {
             "id": 7,
             "name": "'Web Development'",
-            "title": "Real Estate",
-            "image":"RealEstate" ,
+            "title": "Agricultural Site",
+            "image":"/images/projectInfo/agri.jpeg" ,
             "description": "This is a real estate website"
             
         }
