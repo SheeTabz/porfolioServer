@@ -32,7 +32,8 @@
             "name": "Web Development",
             "title": "Titan Real Estate",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPeDq_S0h9ASjRLn1tj4yxBw6ZMG-uZiYwmA&usqp=CAU",
-            "description": "This is a platform that provides clients with the freedom to locate house properties that meet their desires at affordable prices. ",
+            "description": "Provides clients with the freedom to locate house properties that meet their desires at affordable prices. ",
+            "imageUrl": "https://github.com/SheeTabz/Titan-Real-Estate",
             "url":"https://titan-real-estate.netlify.app/"
             
         },
@@ -42,6 +43,7 @@
             "title": "Job Listings",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFXZt4FhXV1je5nf2Bvd-cwT2I6aCvFKVnw&usqp=CAU",
             "description": "A platform where tech-related opportunities are presented depending on your skills and profeciencies",
+            "imageUrl": "https://github.com/SheeTabz/Job-Listings-Master",
             "url": "https://joblistings-tabz.netlify.app/"
             
         },
@@ -51,6 +53,7 @@
             "title": "URL Shortener",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBysGVNv-deGBvRdvbuuTD-4AGtobQeL0Lg&usqp=CAU",
             "description": "Hepls website owners shorten any valid url that are simple and convenient",
+            "imageUrl":"https://github.com/SheeTabz/Api-Master-LandingPage",
             "url": "https://api-landing-page.netlify.app/"
             
         },
@@ -60,15 +63,17 @@
             "title": "DigiHotel",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFduT8Aavj3P1xJE1vju3GO7YoLkLQGRf_g&usqp=CAU" ,
             "description": "This is a digital hotel website that provides customers with diital means to enjoy food from whwerever",
+            "imageUrl": "https://github.com/SheeTabz/DigiHoteL",
             "url": "https://sheetabz.github.io/DigiHoteL/"
             
         },
         {
             "id": 5,
             "name": "Web Development",
-            "title": "Farm Management App",
+            "title": "DairyBusiness",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXypWpeyt1YaOHQX64INSH4qVJEpZiZCxtei6xqWQyWkZwcOw5BUCyL0SqUJzgy8YXCdo&usqp=CAU",
             "description": "A platform where dairy farmers can keep track of the farm production through their devices",
+            "imageUrl": "https://github.com/SheeTabz/Dairy-Business",
             "url": "https://sheetabz.github.io/Dairy-Business/"
             
         },
@@ -77,16 +82,18 @@
             "name": "Web Development",
             "title": "Vallies Real Estate",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-Fz5y1MfeYELN1mP5Z4Q6nW5FsX8yydtcg&usqp=CAU" ,
-            "description": "This is a platform that provides clients with the freedom to locate house properties that meet their desires at affordable prices. ",
+            "description": "Home owners find flexibility in locating house properties that meet their desires at affordable prices. ",
+            "imageUrl":"https://github.com/SheeTabz/Vallies-Estate",
             "url":"https://sheetabz.github.io/Vallies-Estate/"
             
         },
         {
             "id": 7,
             "name": "Web Development",
-            "title": "Agricultural Site",
+            "title": "AgriPlus Website",
             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGhbg-q40aDf_4t8bOEU_sBgl_sMCybKfjw&usqp=CAU" ,
-            "description": "Farmer are given the opportunty to advertise and sell their products countrywide",
+            "description": "Farmers are given the opportunty to advertise and sell their products countrywide",
+            "imageUrl": "https://github.com/SheeTabz/AgriPlus-Website",
             "url": "https://sheetabz.github.io/AgriPlus-Website/"
             
         },
